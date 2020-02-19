@@ -1,0 +1,8 @@
+﻿  main_function.cpp
+  正在生成代码
+  3 of 4141 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  CompilerGen.vcxproj -> D:\CompilerSource\CompilerGen\x64\Release\CompilerGen.exe
+  CompilerGen.vcxproj -> D:\CompilerSource\CompilerGen\x64\Release\CompilerGen.pdb (Full PDB)

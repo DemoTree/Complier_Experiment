@@ -1,0 +1,7 @@
+﻿  main_function.cpp
+  SeuLex.cpp
+d:\compilersource\compilergen\compilergen\seulex.cpp(677): warning C4267: “初始化”: 从“size_t”转换到“SeuLex::IDType”，可能丢失数据
+d:\compilersource\compilergen\compilergen\seulex.cpp(831): warning C4267: “初始化”: 从“size_t”转换到“SeuLex::IDType”，可能丢失数据
+  正在生成代码...
+  CompilerGen.vcxproj -> D:\CompilerSource\CompilerGen\x64\Debug\CompilerGen.exe
+  CompilerGen.vcxproj -> D:\CompilerSource\CompilerGen\x64\Debug\CompilerGen.pdb (Partial PDB)

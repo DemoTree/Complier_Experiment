@@ -1,0 +1,12 @@
+public class main {
+    public static void main(String[] args) {//This is annotation
+	int abcd123 = 10.111;
+/* 
+This is 
+段注释
+*/ @
+        abcd123 -= 20;
+	char 123abcd;
+	System.out.println("True");
+    }
+}
